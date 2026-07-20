@@ -18,7 +18,7 @@ export const projects = [
             "Docker",
         ],
 
-        github: "https://github.com/yourusername/logistics-platform",
+        github: "https://github.com/Kbrom-Mehari/memi-logistics-backend",
 
         website: "https://memi-logistics.netlify.app",
 
