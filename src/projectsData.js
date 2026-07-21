@@ -23,9 +23,9 @@ export const projects = [
         website: "https://memi-logistics.netlify.app",
 
         screenshots: [
-            "/projectScreenshots/logistics/landing_image.png",
-            "/projectScreenshots/logistics/register_image.png",
-            "/projectScreenshots/logistics/login_image.png",
+            `${import.meta.env.BASE_URL}projectScreenshots/logistics/landing_image.png`,
+            `${import.meta.env.BASE_URL}projectScreenshots/logistics/register_image.png`,
+            `${import.meta.env.BASE_URL}projectScreenshots/logistics/login_image.png`,
         ],
 
         features: [
@@ -61,10 +61,10 @@ export const projects = [
         github: "https://github.com/yourusername/fleet-management",
 
         screenshots: [
-            "/projectScreenshots/tracking/login_page.png",
-            "/projectScreenshots/tracking/live%20tracking.png",
-            "/projectScreenshots/tracking/replay.png",
-            "/projectScreenshots/tracking/speed_report.png",
+            `${import.meta.env.BASE_URL}projectScreenshots/tracking/login_page.png`,
+            `${import.meta.env.BASE_URL}projectScreenshots/tracking/live%20tracking.png`,
+            `${import.meta.env.BASE_URL}projectScreenshots/tracking/replay.png`,
+            `${import.meta.env.BASE_URL}projectScreenshots/tracking/speed_report.png`,
         ],
 
         features: [
